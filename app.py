@@ -5,6 +5,7 @@ def addingNumbers(num1, num2):
 	answer = num1 + num2
 	showMeTheOutput(answer)
 
+# This just prints to the console
 def showMeTheOutput(theSomething):
 	print(theSomething)
 
