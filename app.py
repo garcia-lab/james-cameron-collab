@@ -1,4 +1,4 @@
-# This is a comment. This program adds two numbers.
+# This is a comment. This program adds a couple of numbers.
 
 # This function does the math
 def sumOfTwoNumbers(num1, num2):
