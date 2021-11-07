@@ -3,7 +3,10 @@
 # This function does the math
 def sumOfTwoNumbers(num1, num2):
 	answer = num1 + num2
-	print(answer)
+	showMeTheOutput(answer)
+
+def showMeTheOutput(theSomething):
+	print(theSomething)
 
 # This calls the functions
 def main():
